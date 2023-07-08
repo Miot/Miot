@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Miot's GitHub stats](https://github-readme-stats.vercel.app/api?username=miot&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miot&layout=compact)](https://github.com/Miot/github-readme-stats)
